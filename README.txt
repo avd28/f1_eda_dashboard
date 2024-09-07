@@ -11,3 +11,6 @@ Instructions:
 		VI. README.txt (Hi!)
 2. For a cold start the codebase is designed to be run in the order EDA.ipynb -> database_structuring.ipynb -> data_display_dashboard.py
 3. Package requirements are listed in requirements.txt. The dashboard is built on streamlit v1.32.2 
+
+![F1 Dashboard Screenshot](images/Spash_Page_Circuits_View.png)
+
