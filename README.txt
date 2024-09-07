@@ -6,7 +6,7 @@ Instructions:
 		I. EDA.ipynb
 		II. database_structuring.ipynb
 		III. data_display_dashboard.py
-		IV.f1_database.db
+		IV. f1_database.db
 		V. requirements.txt
 		VI. README.txt (Hi!)
 2. For a cold start the codebase is designed to be run in the order EDA.ipynb -> database_structuring.ipynb -> data_display_dashboard.py
