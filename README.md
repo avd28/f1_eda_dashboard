@@ -23,5 +23,5 @@ Instructions:
 3. Package requirements are listed in requirements.txt. The dashboard is built on streamlit v1.32.2 
 
 ![F1 Dashboard Screenshot](images/Spash_Page_Circuits_View.png)
-![F1 Dashboard Screenshot 2](Spash_Page_Drivers_View.png)
+![F1 Dashboard Screenshot 2](images/Spash_Page_Drivers_View.png)
 
